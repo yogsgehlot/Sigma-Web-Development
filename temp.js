@@ -9,7 +9,7 @@ console.log(
 );
 
 console.log(a.filter(i=>{
-    return i%2!=0;
+    return i%2=0;
 }));
 
 console.log(a.reduce((a,b)=>{
